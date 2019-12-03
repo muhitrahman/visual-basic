@@ -1,0 +1,49 @@
+C:\Users\student113\Documents\Visual Studio 2008\Projects\Practice2\Practice2\bin\Debug\Practice2.exe
+C:\Users\student113\Documents\Visual Studio 2008\Projects\Practice2\Practice2\bin\Debug\Practice2.pdb
+C:\Users\student113\Documents\Visual Studio 2008\Projects\Practice2\Practice2\bin\Debug\Practice2.xml
+C:\Users\student113\Documents\Visual Studio 2008\Projects\Practice2\Practice2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student113\Documents\Visual Studio 2008\Projects\Practice2\Practice2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\student113\Documents\Visual Studio 2008\Projects\Practice2\Practice2\obj\Debug\Practice2.vbproj.GenerateResource.Cache
+C:\Users\student113\Documents\Visual Studio 2008\Projects\Practice2\Practice2\obj\Debug\Practice2.exe
+C:\Users\student113\Documents\Visual Studio 2008\Projects\Practice2\Practice2\obj\Debug\Practice2.xml
+C:\Users\student113\Documents\Visual Studio 2008\Projects\Practice2\Practice2\obj\Debug\Practice2.pdb
+C:\Users\student113\Documents\Visual Studio 2008\Projects\Practice2\Practice2\obj\Debug\WindowsApplication1.Txtcalculate.resources
+D:\Practice2\Practice2\obj\Debug\Practice2.exe
+D:\Practice2\Practice2\obj\Debug\Practice2.xml
+D:\Practice2\Practice2\obj\Debug\Practice2.pdb
+D:\Practice2\Practice2\bin\Debug\Practice2.exe
+D:\Practice2\Practice2\bin\Debug\Practice2.pdb
+D:\Practice2\Practice2\bin\Debug\Practice2.xml
+D:\Practice2\Practice2\obj\Debug\ResolveAssemblyReference.cache
+D:\Practice2\Practice2\obj\Debug\WindowsApplication1.Txtcalculate.resources
+D:\Practice2\Practice2\obj\Debug\WindowsApplication1.Resources.resources
+D:\Practice2\Practice2\obj\Debug\Practice2.vbproj.GenerateResource.Cache
+F:\VB_Project\Practice2\Practice2\obj\Debug\Practice2.exe
+F:\VB_Project\Practice2\Practice2\obj\Debug\Practice2.xml
+F:\VB_Project\Practice2\Practice2\obj\Debug\Practice2.pdb
+F:\VB--Project\Practice2\Practice2\obj\Debug\Practice2.exe
+F:\VB--Project\Practice2\Practice2\obj\Debug\Practice2.xml
+F:\VB--Project\Practice2\Practice2\obj\Debug\Practice2.pdb
+F:\VB--Project\Real-Estate\Practice2\obj\Debug\Practice2.exe
+F:\VB--Project\Real-Estate\Practice2\obj\Debug\Practice2.xml
+F:\VB--Project\Real-Estate\Practice2\obj\Debug\Practice2.pdb
+F:\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\Practice2.exe
+F:\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\Practice2.xml
+F:\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\Practice2.pdb
+F:\Visual-Basic-Project\RealEstate-1\Practice2\bin\Debug\Practice2.exe
+F:\Visual-Basic-Project\RealEstate-1\Practice2\bin\Debug\Practice2.pdb
+F:\Visual-Basic-Project\RealEstate-1\Practice2\bin\Debug\Practice2.xml
+F:\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\WindowsApplication1.Txtcalculate.resources
+F:\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\WindowsApplication1.Resources.resources
+F:\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\ResGen.read.1.tlog
+F:\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\ResGen.write.1.tlog
+C:\Data-Share\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\Practice2.exe
+C:\Data-Share\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\Practice2.xml
+C:\Data-Share\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\Practice2.pdb
+C:\Data-Share\Visual-Basic-Project\RealEstate-1\Practice2\bin\Debug\Practice2.exe
+C:\Data-Share\Visual-Basic-Project\RealEstate-1\Practice2\bin\Debug\Practice2.pdb
+C:\Data-Share\Visual-Basic-Project\RealEstate-1\Practice2\bin\Debug\Practice2.xml
+C:\Data-Share\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\WindowsApplication1.Txtcalculate.resources
+C:\Data-Share\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Data-Share\Visual-Basic-Project\RealEstate-1\Practice2\obj\Debug\Practice2.vbproj.GenerateResource.Cache

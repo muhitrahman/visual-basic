@@ -1,0 +1,32 @@
+C:\Users\student122\Documents\Visual Studio 2008\Projects\Employee Card\Employee Card\bin\Debug\Employee Card.exe
+C:\Users\student122\Documents\Visual Studio 2008\Projects\Employee Card\Employee Card\bin\Debug\Employee Card.pdb
+C:\Users\student122\Documents\Visual Studio 2008\Projects\Employee Card\Employee Card\bin\Debug\Employee Card.xml
+C:\Users\student122\Documents\Visual Studio 2008\Projects\Employee Card\Employee Card\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student122\Documents\Visual Studio 2008\Projects\Employee Card\Employee Card\obj\Debug\Employee_Card.Form1.resources
+C:\Users\student122\Documents\Visual Studio 2008\Projects\Employee Card\Employee Card\obj\Debug\Employee_Card.Resources.resources
+C:\Users\student122\Documents\Visual Studio 2008\Projects\Employee Card\Employee Card\obj\Debug\Employee Card.vbproj.GenerateResource.Cache
+C:\Users\student122\Documents\Visual Studio 2008\Projects\Employee Card\Employee Card\obj\Debug\Employee Card.exe
+C:\Users\student122\Documents\Visual Studio 2008\Projects\Employee Card\Employee Card\obj\Debug\Employee Card.xml
+C:\Users\student122\Documents\Visual Studio 2008\Projects\Employee Card\Employee Card\obj\Debug\Employee Card.pdb
+D:\Visual-Basic-Project\Employee Card\Employee Card\obj\Debug\Employee Card.exe
+D:\Visual-Basic-Project\Employee Card\Employee Card\obj\Debug\Employee Card.xml
+D:\Visual-Basic-Project\Employee Card\Employee Card\obj\Debug\Employee Card.pdb
+D:\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\Employee Card.exe
+D:\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\Employee Card.xml
+D:\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\Employee Card.pdb
+D:\Visual-Basic-Project\Employee Card-4\Employee Card\bin\Debug\Employee Card.exe
+D:\Visual-Basic-Project\Employee Card-4\Employee Card\bin\Debug\Employee Card.pdb
+D:\Visual-Basic-Project\Employee Card-4\Employee Card\bin\Debug\Employee Card.xml
+D:\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\Employee_Card.Form1.resources
+D:\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\Employee_Card.Resources.resources
+D:\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\Employee Card.vbproj.GenerateResource.Cache
+C:\Data-Share\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\Employee Card.exe
+C:\Data-Share\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\Employee Card.xml
+C:\Data-Share\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\Employee Card.pdb
+C:\Data-Share\Visual-Basic-Project\Employee Card-4\Employee Card\bin\Debug\Employee Card.exe
+C:\Data-Share\Visual-Basic-Project\Employee Card-4\Employee Card\bin\Debug\Employee Card.pdb
+C:\Data-Share\Visual-Basic-Project\Employee Card-4\Employee Card\bin\Debug\Employee Card.xml
+C:\Data-Share\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\Employee_Card.Form1.resources
+C:\Data-Share\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\Employee_Card.Resources.resources
+C:\Data-Share\Visual-Basic-Project\Employee Card-4\Employee Card\obj\Debug\Employee Card.vbproj.GenerateResource.Cache

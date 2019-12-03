@@ -1,0 +1,36 @@
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+F:\VB_Project\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+F:\VB_Project\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+F:\VB_Project\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+F:\VB--Project\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+F:\VB--Project\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+F:\VB--Project\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+F:\VB--Project\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+F:\VB--Project\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+F:\VB--Project\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+F:\VB--Project\WindowsApplication7\WindowsApplication7\obj\Debug\ResolveAssemblyReference.cache
+F:\VB--Project\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+F:\VB--Project\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+F:\VB--Project\WindowsApplication7\WindowsApplication7\obj\Debug\ResGen.read.1.tlog
+F:\VB--Project\WindowsApplication7\WindowsApplication7\obj\Debug\ResGen.write.1.tlog
+D:\Visual-Basic-Project\Student-Scores-2\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+D:\Visual-Basic-Project\Student-Scores-2\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+D:\Visual-Basic-Project\Student-Scores-2\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Data-Share\Visual-Basic-Project\Student-Scores-2\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Data-Share\Visual-Basic-Project\Student-Scores-2\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Data-Share\Visual-Basic-Project\Student-Scores-2\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Data-Share\Visual-Basic-Project\Student-Scores-2\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Data-Share\Visual-Basic-Project\Student-Scores-2\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Data-Share\Visual-Basic-Project\Student-Scores-2\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Data-Share\Visual-Basic-Project\Student-Scores-2\WindowsApplication7\obj\Debug\WindowsApplication7.Form1.resources
+C:\Data-Share\Visual-Basic-Project\Student-Scores-2\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Data-Share\Visual-Basic-Project\Student-Scores-2\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache

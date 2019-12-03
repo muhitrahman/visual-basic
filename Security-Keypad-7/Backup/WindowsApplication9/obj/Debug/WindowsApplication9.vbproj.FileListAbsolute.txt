@@ -1,0 +1,13 @@
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\obj\Debug\Interop.SpeechLib.dll
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.ResolveComReference.cache
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\bin\Debug\Interop.SpeechLib.dll
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+D:\Visual-Basic-Project\Security-Keypad-7\Backup\WindowsApplication9\obj\Debug\WindowsApplication9.pdb

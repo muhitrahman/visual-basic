@@ -1,0 +1,45 @@
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\Interop.SpeechLib.dll
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\Interop.SpeechLib.dll
+C:\Users\student122\Documents\Visual Studio 2008\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.ResolveComReference.cache
+F:\VB_Project\WindowsApplication9\WindowsApplication9\obj\Debug\Interop.SpeechLib.dll
+F:\VB_Project\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.ResolveComReference.cache
+F:\VB_Project\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+F:\VB_Project\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+F:\VB_Project\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+F:\VB--Project\WindowsApplication9\WindowsApplication9\obj\Debug\Interop.SpeechLib.dll
+F:\VB--Project\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.ResolveComReference.cache
+F:\VB--Project\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+F:\VB--Project\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+F:\VB--Project\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+F:\VB--Project\Security-Keypad\WindowsApplication9\obj\Debug\Interop.SpeechLib.dll
+F:\VB--Project\Security-Keypad\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.ResolveComReference.cache
+F:\VB--Project\Security-Keypad\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+F:\VB--Project\Security-Keypad\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+F:\VB--Project\Security-Keypad\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+F:\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\Interop.SpeechLib.dll
+F:\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.ResolveComReference.cache
+F:\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+F:\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+F:\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+C:\Data-Share\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\Interop.SpeechLib.dll
+C:\Data-Share\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.ResolveComReference.cache
+C:\Data-Share\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+C:\Data-Share\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+C:\Data-Share\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+C:\Data-Share\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+C:\Data-Share\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+C:\Data-Share\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+C:\Data-Share\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\bin\Debug\Interop.SpeechLib.dll
+C:\Data-Share\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+C:\Data-Share\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+C:\Data-Share\Visual-Basic-Project\Security-Keypad-7\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
